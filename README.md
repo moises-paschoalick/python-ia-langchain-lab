@@ -1,4 +1,4 @@
-# python-ia-langchain-lab
+# python-ai-langchain-lab
 
 **An experimental playground for learning and building with LangChain using Python and OpenAI's GPT-4o-mini model.**
 
@@ -35,8 +35,8 @@ The current example is a **Travel Assistant** chatbot that helps users plan trip
 1. Clone the repository:
 
     ```bash
-    git clone https://github.com/moises-paschoalick/python-ia-langchain-lab.git
-    cd python-ia-langchain-lab
+    git clone https://github.com/moises-paschoalick/python-ai-langchain-lab.git
+    cd python-ai-langchain-lab
     ```
 
 2. (Optional) Create and activate a virtual environment:
