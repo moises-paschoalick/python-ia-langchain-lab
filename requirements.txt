@@ -1,0 +1,5 @@
+langchain-core>=0.2.23,<0.3.0
+langchain-openai
+langchain-community
+python-dotenv
+numpy<2
